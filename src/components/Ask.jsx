@@ -15,7 +15,7 @@ const Ask = () => {
         <h1 className="text-xl font-semibold text-gray-800 mb-4">For Collaborations</h1>
         <div className="flex flex-col sm:flex-row gap-4 justify-center">
           <a 
-            href="https://maui-d4w-wbccm5l.gamma.site/" 
+            href="https://mauid4w.vercel.app/" 
             target="_blank" 
             rel="noopener noreferrer"
           >
@@ -24,7 +24,7 @@ const Ask = () => {
             </button>
           </a>
           <a 
-            href="https://maui-d4w-wbccm5l.gamma.site/" 
+            href="https://mauid4w.vercel.app/" 
             target="_blank" 
             rel="noopener noreferrer"
           >
